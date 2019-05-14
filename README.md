@@ -1,5 +1,5 @@
 # Bike-Management-Project
-this is a simple Bike management system made with C#
+this is a simple Bike management system made with C# it road & mountain classes that inherits from the parent class, bikes.
 
 ## Three Layers
               1-	Business Layer: bus
